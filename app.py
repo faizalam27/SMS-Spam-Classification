@@ -1,6 +1,6 @@
-pip install nltk
-pip install streamlit
-pip install pickle
+!pip install nltk
+!pip install streamlit
+!pip install pickle
 import streamlit as st
 import pickle
 import nltk
