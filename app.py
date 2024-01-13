@@ -4,8 +4,11 @@ import nltk
 from nltk.corpus import stopwords
 from nltk.stem.porter import PorterStemmer
 import string
-from scipy.sparse import hstack
 import numpy as np
+pip install nltk
+pip install streamlit
+pip install pickle
+
 
 ps = PorterStemmer()
 
